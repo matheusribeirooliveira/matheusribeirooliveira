@@ -1,16 +1,15 @@
-## Hi there 👋
+## Olá! Sejam bem-vindos ao meu perfil no Github. 💙 🤠
 
-<!--
-**matheusribeirooliveira/matheusribeirooliveira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Meu nome é **Matheus Ribeiro**.
+- Sou aluno da Escola Isac de Dracena e tenho aulas de Tecnologia.
+- Estamos aprendendo programação através da plataformas [Scratch](https://scratch.mit.edu/) e [P5Js](https://editor.p5js.org/).
+- Vou utilizar este espaço para postar alguns de meus trabalhos.
 
-Here are some ideas to get you started:
+## Podem entrar em contato comigo. 📧
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  00001115629748SP@al.educacao.sp.gov.br
+
+  ![](https://media.tenor.com/M28y2LcXzP0AAAAM/catching-cow-tyler-kijac.gif)
+  
+
+
